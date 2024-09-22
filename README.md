@@ -15,12 +15,14 @@
 README에 각 주차에 해당하는 자료와 문항들의 링크를 달아두었습니다. \
 한 번 클론해두시면 편하게 자료와 문항들을 확인할 수 있으니 레포지토리를 잘 활용하시기 바랍니다!
 
+실제 세션에서 4차시, 8차시는 코딩 테스트로 진행되었기 때문에 강의자료가 없습니다! 참고해주세요 :D
+
 # 📺 강의 영상(추가 예정) #
 | <center> 주차 </center> | <cneter> 링크 </center>                              | <center> 강의자료 </center>                                                                        | <center> 과제 </center> |
 |:------------------------:|-----------------------------------------------------|----------------------------------------------------------------------------------------------------|:------------------------------:|
-| 1                        | [동적 계획법 이론 - 상태 공간과 동적 계획법의 특징]()  | [1주차 자료](https://drive.google.com/file/d/1vgeAF4H-0bdH2aqGZZDmkfGKH0XmlODW/view?usp=drive_link) |[1주차 과제]()                 |
-| 2                        | [동적 계획법 설계 (1) - Bottom-Up]()                 | [2주차 자료](https://drive.google.com/file/d/1Hm0kS9_uuzeuHAaxUOaMS8Hv2IR-nF5a/view?usp=sharing)    |[2주차 과제]()                 |
-| 3                        | [동적 계획법 설계 (2) - Top-Down]()                  | |[3주차 과제]()                  |
-| 4                        | [동적 계획법 (1) - O(N) DP]()                       | |[4주차 과제]()                  |
-| 5                        | [동적 계획법 (2) - O(N²) DP]()                      | |[5주차 과제]()                  |
-| 6                        | [동적 계획법 (3) - O(N³) DP]()                      | |[6주차 과제]()                  |
+| 1 | [동적 계획법 이론 - 상태 공간과 동적 계획법의 특징]() | [1주차 자료](https://drive.google.com/file/d/1vgeAF4H-0bdH2aqGZZDmkfGKH0XmlODW/view?usp=drive_link) | [1주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week1) |
+| 2 | [동적 계획법 설계 (1) - Bottom-Up]() | [2주차 자료](https://drive.google.com/file/d/1Hm0kS9_uuzeuHAaxUOaMS8Hv2IR-nF5a/view?usp=sharing) | [2주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week2) |
+| 3 | [동적 계획법 설계 (2) - Top-Down]() | [3주차 자료](https://drive.google.com/file/d/1qgJ0Ou1PHMV8PwKecWsaNWVKEPO6Kz1d/view?usp=sharing) | [3주차_과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week3) |
+| 5 | [동적 계획법 (1) - O(N) DP]() | [5주차 자료]() | [5주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week5) |
+| 6 | [동적 계획법 (2) - O(N²) DP]() | [6주차 자료]() | [6주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week6) |
+| 7 | [동적 계획법 (3) - O(N³) DP]() | [7주차 자료]() | [7주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week7) |

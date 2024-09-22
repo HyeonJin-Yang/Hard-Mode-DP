@@ -23,7 +23,7 @@ README에 각 주차에 해당하는 자료와 문항들의 링크를 달아두�
 # 📺 강의 영상(추가 예정) #
 | <center> 주차 </center> | <cneter> 링크 </center>                              | <center> 강의자료 </center>                                                                        | <center> 과제 </center> |
 |:------------------------:|-----------------------------------------------------|----------------------------------------------------------------------------------------------------|:------------------------------:|
-| 1 | [동적 계획법 이론 - 상태 공간과 동적 계획법의 특징]() | [1주차 자료](https://drive.google.com/file/d/1vgeAF4H-0bdH2aqGZZDmkfGKH0XmlODW/view?usp=drive_link) | [1주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week1) |
+| 1 | [동적 계획법 이론 - 상태 공간과 동적 계획법의 특징](https://youtu.be/Crw1wOll7K0?feature=shared) | [1주차 자료](https://drive.google.com/file/d/1vgeAF4H-0bdH2aqGZZDmkfGKH0XmlODW/view?usp=drive_link) | [1주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week1) |
 | 2 | [동적 계획법 설계 (1) - Bottom-Up]() | [2주차 자료](https://drive.google.com/file/d/1Hm0kS9_uuzeuHAaxUOaMS8Hv2IR-nF5a/view?usp=sharing) | [2주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week2) |
 | 3 | [동적 계획법 설계 (2) - Top-Down]() | [3주차 자료](https://drive.google.com/file/d/1qgJ0Ou1PHMV8PwKecWsaNWVKEPO6Kz1d/view?usp=sharing) | [3주차_과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week3) |
 | 5 | [동적 계획법 (1) - O(N) DP]() | [5주차 자료]() | [5주차 과제](https://github.com/HyeonJin-Yang/Hard-Mode-DP/tree/main/Week5) |

@@ -9,7 +9,7 @@
 |-------------------------|------------------------|
 | 1  | [우유 축제](https://www.acmicpc.net/problem/14720) |
 | 2  | [피보나치 비스무리한 수열](https://www.acmicpc.net/problem/14495) |
-| 3  | [계단 오르기](bhttps://www.acmicpc.net/problem/2579) |
+| 3  | [계단 오르기](https://www.acmicpc.net/problem/2579) |
 
 ## 🌕 추가 문제 ##
 추가문제에서는, 배운 개념으로부터 한 발자국 더 생각이 필요한 문제들을 제시해드립니다. </br>

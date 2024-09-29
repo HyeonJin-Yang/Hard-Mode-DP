@@ -7,9 +7,9 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [타일링](https://www.acmicpc.net/problem/1793)               |
+| 2  | [거스름돈](https://www.acmicpc.net/problem/14916)            |
+| 3  | [연속합](https://www.acmicpc.net/problem/1912)               |
 
 ## 🌕 추가 문제 ##
 추가문제에서는, 배운 개념으로부터 한 발자국 더 생각이 필요한 문제들을 제시해드립니다. </br>
@@ -17,6 +17,6 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [타일 채우기 3](https://www.acmicpc.net/problem/14852)       |
+| 2  | [서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764) |
+| 3  | [연속합 2](https://www.acmicpc.net/problem/13398)            |

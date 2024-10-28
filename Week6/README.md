@@ -7,9 +7,9 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [팰린드롬?](https://www.acmicpc.net/problem/10942)               |
+| 2  | [최소 편집](https://www.acmicpc.net/problem/15483)               |
+| 3  | [공통 부분 문자열](https://www.acmicpc.net/problem/5582)               |
 
 ## 🌕 추가 문제 ##
 추가문제에서는, 배운 개념으로부터 한 발자국 더 생각이 필요한 문제들을 제시해드립니다. </br>
@@ -17,6 +17,6 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [팰린드롬 분할](https://www.acmicpc.net/problem/1509)               |
+| 2  | [받아쓰기](https://www.acmicpc.net/problem/20542)               |
+| 3  | [유전자 함수](https://www.acmicpc.net/problem/7346)               |

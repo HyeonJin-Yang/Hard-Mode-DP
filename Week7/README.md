@@ -7,9 +7,9 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)               |
+| 2  | [파일 합치기](https://www.acmicpc.net/problem/11066)               |
+| 3  | [경로 찾기](https://www.acmicpc.net/problem/11403)               |
 
 ## 🌕 추가 문제 ##
 추가문제에서는, 배운 개념으로부터 한 발자국 더 생각이 필요한 문제들을 제시해드립니다. </br>
@@ -17,6 +17,6 @@
 
 | <center> 번호 </center> | <center> 문제 </center> |
 |-------------------------|------------------------|
-| 1  | [1]()               |
-| 2  | [2]()               |
-| 3  | [3]()               |
+| 1  | [크리스마스 트리](https://www.acmicpc.net/problem/1234)               |
+| 2  | [조약돌](https://www.acmicpc.net/problem/25378)               |
+| 3  | [회장뽑기](https://www.acmicpc.net/problem/2660)               |
